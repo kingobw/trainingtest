@@ -1,5 +1,6 @@
 # Hello!
-My name is FE King.
+No one is perfect. I, FE King, need to edit this file on my-branch.
+
 This is my second (well first for lesson) exercise creating a repo.
 
 I will add more information here as time goes on. 
